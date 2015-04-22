@@ -37,3 +37,7 @@ If you run gcc under Linux, just type:
 Otherwise, compile and link all the *.c files into a single executable
 in your usual manner.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/N00D13/cweb/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
