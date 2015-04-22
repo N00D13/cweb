@@ -1,44 +1,35 @@
-WEBSERV
-=======
-  CWeb v1.0.1
+# WEBSERV
+
+  CWeb v1.0.1  
   N00D13 Alex Wellnitz
 
 
-
-
 Includes:
-    README (this file)
-    Makefile
-    webserv.c
-    servreq.h
-    servreq.c
-    reqhead.h
-    reqhead.c
-    resphead.h
-    resphead.c
-    resource.h
-    resource.c
-    helper.h
-    helper.c
+- README (this file)
+- Makefile
+- webserv.c
+- servreq.h
+- servreq.c
+- reqhead.h
+- reqhead.c
+- resphead.h
+- resphead.c
+- resource.h
+- resource.c
+- helper.h
+- helper.c
 
 
-Function
-========
-
+## Function
 Implements a simple webserver
 
-
-Usage
-=====
-
+## Usage
 This program has been written for instructional and demonstration
 purposes only. It is missing a number of vital security features. Do
 NOT run it on any machine connected to an external network!!
 
 
-Installation
-============
-
+## Installation
 If you run gcc under Linux, just type:
 
     make
